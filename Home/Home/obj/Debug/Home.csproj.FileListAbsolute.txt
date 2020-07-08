@@ -1,0 +1,10 @@
+C:\Users\payme\source\repos\Home\Home\bin\Debug\Home.exe.config
+C:\Users\payme\source\repos\Home\Home\bin\Debug\Home.exe
+C:\Users\payme\source\repos\Home\Home\bin\Debug\Home.pdb
+C:\Users\payme\source\repos\Home\Home\obj\Debug\Home.csprojAssemblyReference.cache
+C:\Users\payme\source\repos\Home\Home\obj\Debug\Home.Form1.resources
+C:\Users\payme\source\repos\Home\Home\obj\Debug\Home.Properties.Resources.resources
+C:\Users\payme\source\repos\Home\Home\obj\Debug\Home.csproj.GenerateResource.cache
+C:\Users\payme\source\repos\Home\Home\obj\Debug\Home.csproj.CoreCompileInputs.cache
+C:\Users\payme\source\repos\Home\Home\obj\Debug\Home.exe
+C:\Users\payme\source\repos\Home\Home\obj\Debug\Home.pdb
